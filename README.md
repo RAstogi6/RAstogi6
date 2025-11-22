@@ -1,9 +1,3 @@
-## Hi there 👋
-
-Here is a clean, structured, professional GitHub profile README you can use. Replace any placeholders with your details if needed.
-
----
-
 ## 👋 Hi, I'm Puneet
 
 **Student | C++ & DSA Learner | Tech Enthusiast**
