@@ -1,52 +1,53 @@
-## 👋 Hi, I'm Puneet
-
-**Student | C++ & DSA Learner | Tech Enthusiast**
-
-I’m building my skills in **C++**, **Data Structures & Algorithms**, and exploring **development workflows**. This space contains my practice projects, experiments, and learning notes.
+Here’s a clean, professional, copy-paste–ready **GitHub README profile** for you.
+It highlights **C++**, **DSA**, and **Web Development** exactly as you wanted.
 
 ---
 
-## 🚀 What I’m Working On
+## 👋 Hi, I'm Puneet!
 
-* Strengthening core **C++ fundamentals**
-* Solving **DSA problems** consistently
-* Learning **Git & GitHub workflow**
-* Exploring **basic development projects**
+🎓 **Student & Developer**
+💻 Passionate about **C++**, **Data Structures & Algorithms**, and building strong problem-solving skills.
+🌐 Currently learning **Web Development** (HTML, CSS, JavaScript).
+🚀 Improving every day by learning new skills.
+
+---
+
+## 🔥 What I'm Working On
+
+* Writing efficient and clean code in **C++**
+* Practicing **DSA** (arrays, linked lists, trees, DP, recursion, graphs)
+* Learning full-stack basics with **HTML**, **CSS**, and **JavaScript**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** C++, C, HTML, CSS
-**Tools:** VS Code, Git, GitHub
-**Interest Areas:** DSA, System fundamentals, Web basics
+**Languages:**
 
----
+* C++
+* JavaScript
+* HTML & CSS
 
-## 📌 Current Goals
+**Currently Exploring:**
 
-* Build strong problem-solving habits
-* Create small but clean beginner-friendly projects
-* Maintain a consistent GitHub activity workflow
-
----
-
-## 📈 GitHub Stats
-
-(Enable GitHub Readme Stats from anuraghazra repo and paste your own links)
-
-```md
-![Puneet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-```
+* Web development fundamentals
+* Competitive programming concepts
 
 ---
 
 ## 📫 Connect With Me
 
-* **Email:** rastogi.puneet470@gmail.com
-* **LinkedIn:**https://www.linkedin.com/in/70a358372/
-
+* **LinkedIn:** [Click here](https://www.linkedin.com/in/70a358372/)
+* **Email:** [rastogi.puneet470@gmail.com](mailto:rastogi.puneet470@gmail.com)
 
 ---
+
+## 📈 Goals
+
+* Become strong in **DSA for placements**
+* Build real-world web projects
+* Contribute to open-source
+
+---
+
 
