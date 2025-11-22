@@ -41,7 +41,7 @@
 
 ## 📈 Goals
 
-* Become strong in **DSA for placements**
+* Become strong in **DSA for Future Job**
 * Build real-world web projects
 * Contribute to open-source
 
