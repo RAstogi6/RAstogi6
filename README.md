@@ -1,6 +1,3 @@
-Here’s a clean, professional, copy-paste–ready **GitHub README profile** for you.
-It highlights **C++**, **DSA**, and **Web Development** exactly as you wanted.
-
 ---
 
 ## 👋 Hi, I'm Puneet!
