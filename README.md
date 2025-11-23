@@ -34,7 +34,7 @@
 
 ## 📫 Connect With Me
 
-* **LinkedIn:** [Click here](https://www.linkedin.com/in/70a358372/)
+* **LinkedIn:** [Click here](https://www.linkedin.com/in/puneet-rastogi-70a358372/)
 * **Email:** [rastogi.puneet470@gmail.com](mailto:rastogi.puneet470@gmail.com)
 
 ---
