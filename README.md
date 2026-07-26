@@ -11,7 +11,6 @@
 [![Academic Qualification](https://img.shields.io/badge/Degree-B.Tech_in_Computer_Science_%26_Engineering-7B2CBF?style=flat-square&logo=academic-degree&logoColor=white)](https://github.com/RAstogi6)
 [![Location](https://img.shields.io/badge/Location-New_Delhi%2C_India_%7C_Remote-5A189A?style=flat-square&logo=google-maps&logoColor=white)](https://github.com/RAstogi6)
 
-
 <br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-7B2CBF?style=for-the-badge&logo=react&logoColor=white)](https://puneetrastogi.dev)
@@ -69,104 +68,6 @@ I am a **Computer Science Engineering Student & AI Systems Architect** with exte
 
 ---
 
-## 🤖 AI / ML Expertise
-
-| Domain | Proficiency | Key Frameworks & Technical Details |
-| :--- | :--- | :--- |
-| **Generative AI & LLMs** | `Expert / Lead` | LangChain, LlamaIndex, vLLM, Prompt Engineering, LoRA Fine-Tuning, Function Calling |
-| **Vector Search & RAG** | `Expert` | Pinecone, Qdrant, Milvus, FAISS, Semantic Search, HNSW Indexing, Dense Retrieval |
-| **Deep Learning & Computer Vision** | `Advanced` | PyTorch, TensorFlow, OpenCV, YOLOv8, Vision Transformers (ViT), CUDA Acceleration |
-| **MLOps & Model Serving** | `Advanced` | MLflow, Kubeflow, DVC, Triton Inference Server, ONNX Runtime, TensorRT Optimization |
-| **Natural Language Processing** | `Expert` | HuggingFace Transformers, NLTK, SpaCy, Sentiment Analysis, Named Entity Recognition |
-
----
-
-## 🚀 Featured Projects
-
-<details>
-<summary><b>1. NexusMind AI — Autonomous Multi-Agent Orchestration Platform</b></summary>
-
-<br/>
-
-> Enterprise-grade autonomous multi-agent collaboration and task execution engine utilizing distributed vector search and dynamic DAG-based execution queues.
-
-| Stack | Scale | Performance | Security | Impact | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Python, FastAPI, Ray, Redis, Pinecone, React | 100k+ Active Agents | <45ms P99 Latency | OAuth2, mTLS, RBAC | 45% Efficiency Boost | [View Repository](https://github.com/RAstogi6) |
-
-Architected a fault-tolerant multi-agent platform capable of decomposing complex enterprise workflows into asynchronous executable graphs. Engineered custom state persistence leveraging Redis and Qdrant to ensure seamless task recovery and zero-loss state transitions during high-load processing spikes.
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>2. AetherScale — High-Throughput Event Streaming & Telemetry Engine</b></summary>
-
-<br/>
-
-> Distributed event ingestion engine built for sub-second query evaluation, continuous real-time anomaly detection, and petabyte-scale telemetry storage.
-
-| Stack | Scale | Performance | Security | Impact | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Go, Apache Kafka, ClickHouse, Rust, Grafana | 5B+ Events / Day | Sub-10ms Ingestion | E2E Encryption | 99.999% SLA Uptime | [View Repository](https://github.com/RAstogi6) |
-
-Built an enterprise event-streaming cluster managing concurrent data streams across multi-region Kubernetes deployments. Reduced memory footprint by 40% through custom Rust-based data parsing modules integrated into high-speed Kafka consumer groups.
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>3. OmniCloud Mesh — Zero-Trust Distributed Microservices Gateway</b></summary>
-
-<br/>
-
-> Cloud-native service mesh and api-gateway platform featuring automated mutual TLS certificate authority, dynamic traffic splitting, and distributed open-telemetry tracing.
-
-| Stack | Scale | Performance | Security | Impact | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| TypeScript, Next.js, Kubernetes, Terraform, Istio | 500+ Microservices | Zero Overhead | Zero-Trust Architecture | 60% Infra Cost Reduction | [View Repository](https://github.com/RAstogi6) |
-
-Designed a unified developer experience portal and control plane for managing zero-trust microservice environments. Built real-time network topology visualizers using Next.js and WebGL, allowing infrastructure teams to pinpoint latency bottlenecks instantaneously.
-
-</details>
-
----
-
-## 💼 Experience
-
-### **Software Engineering Intern & AI Lead** | Enterprise Tech Solutions
-`Jan 2023 — Present`
-- Spearheaded the design and deployment of an enterprise LLM orchestration framework, handling over 25 Million daily automated inference calls.
-- Architected sub-50ms vector query infrastructure utilizing Qdrant and Redis, scaling seamlessly to support multi-tenant enterprise data isolated by zero-trust policies.
-- Directed a cross-functional engineering team of 14 across backend, cloud infrastructure, and MLOps to deliver production features ahead of schedule.
-- `Skills`: `Python` `Go` `Kubernetes` `AWS` `PyTorch` `FastAPI` `Vector DBs`
-
-### **Student Software Engineering Fellow** | Global Cloud Innovations
-`Jun 2021 — Dec 2022`
-- Engineered high-throughput microservices processing over 15,000 requests per second with strict sub-15ms processing latency limits.
-- Spearheaded database partitioning and caching overhaul, improving relational database query throughput by 350%.
-- Automated complete multi-cloud infrastructure deployments using Terraform, Ansible, and GitHub Actions pipelines.
-- `Skills`: `TypeScript` `Node.js` `PostgreSQL` `Redis` `Docker` `Terraform` `CI/CD`
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-| :--- | :--- |
-| 🥇 **FAANG Outstanding Engineering Award** | Awarded for architecting a fault-tolerant event pipeline saving $1.4M annually in cloud infrastructure cost. |
-| 🥈 **Global AI Hackathon Champion** | Ranked 1st among 600+ international teams for developing an edge-computed real-time computer vision system. |
-| 📜 **Open Source Contributor of the Year** | Core maintainer and contributor to top-tier Python & Rust AI frameworks with over 15,000 GitHub stars. |
-| 💡 **US Patent Holder (Pending)** | System and method for low-latency distributed vector index sharding and parallelized execution. |
-
-</div>
-
----
-
 ## 📜 Certifications
 
 ### **AWS (Amazon Web Services)**
@@ -208,16 +109,6 @@ Designed a unified developer experience portal and control plane for managing ze
 <br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAstogi6&layout=compact&theme=synthwave&hide_border=true&title_color=7B2CBF&icon_color=9D4EDD&bg_color=0D1117&text_color=E0E0E0" height="165"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RAstogi6&theme=synthwave&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true" width="100%"/>
 
 </div>
 
