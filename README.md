@@ -90,10 +90,10 @@ I am a **Computer Science Engineering Student & AI Systems Architect** with exte
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Top_1%25_Knight_Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Overall_Rank_100-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org)
-[![HackerRank](https://img.shields.io/badge/HackerRank-5_Stars_Problem_Solving-2EC4B6?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5_Star_Division_1-5B4636?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC4B6?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4636?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com)
 
 </div>
 
