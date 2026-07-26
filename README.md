@@ -103,12 +103,12 @@ I am a **Computer Science Engineering Student & AI Systems Architect** with exte
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RAstogi6&show_icons=true&theme=synthwave&hide_border=true&title_color=7B2CBF&icon_color=9D4EDD&bg_color=0D1117&text_color=E0E0E0" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RAstogi6&show_icons=true&theme=synthwave&hide_border=true" height="175"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAstogi6&theme=synthwave&hide_border=true&background=0D1117&ring=7B2CBF&fire=9D4EDD&currStreakLabel=7B2CBF" height="175"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAstogi6&layout=compact&theme=synthwave&hide_border=true&title_color=7B2CBF&icon_color=9D4EDD&bg_color=0D1117&text_color=E0E0E0" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAstogi6&layout=compact&theme=synthwave&hide_border=true" height="165"/>
 
 </div>
 
