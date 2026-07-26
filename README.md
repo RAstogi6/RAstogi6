@@ -8,21 +8,22 @@
 
 <br/><br/>
 
-[![Academic Qualification](https://img.shields.io/badge/Degree-B.Tech_in_Computer_Science_%26_Engineering-7B2CBF?style=flat-square&logo=academic-degree&logoColor=white)](https://github.com)
-[![Location](https://img.shields.io/badge/Location-New_Delhi%2C_India_%7C_Remote-5A189A?style=flat-square&logo=google-maps&logoColor=white)](https://github.com)
+[![Academic Qualification](https://img.shields.io/badge/Degree-B.Tech_in_Computer_Science_%26_Engineering-7B2CBF?style=flat-square&logo=academic-degree&logoColor=white)](https://github.com/RAstogi6)
+[![Location](https://img.shields.io/badge/Location-New_Delhi%2C_India_%7C_Remote-5A189A?style=flat-square&logo=google-maps&logoColor=white)](https://github.com/RAstogi6)
+
 
 <br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-7B2CBF?style=for-the-badge&logo=react&logoColor=white)](https://puneetrastogi.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/puneetrastogi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:puneet.rastogi@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/puneetrastogi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/puneet-rastogi-70a358372/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rastogi.puneet470@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RAstogi6)
 
 <br/><br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=puneetrastogi&color=7b2cbf&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/puneetrastogi)
-[![Followers](https://img.shields.io/github/followers/puneetrastogi?style=for-the-badge&color=7B2CBF&labelColor=1D1E2C&logo=github)](https://github.com/puneetrastogi?tab=followers)
-[![Stars](https://img.shields.io/github/stars/puneetrastogi?style=for-the-badge&color=7B2CBF&labelColor=1D1E2C&logo=github)](https://github.com/puneetrastogi)
+[![Profile Views](https://komarev.com/ghpvc/?username=RAstogi6&color=7b2cbf&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/RAstogi6)
+[![Followers](https://img.shields.io/github/followers/RAstogi6?style=for-the-badge&color=7B2CBF&labelColor=1D1E2C&logo=github)](https://github.com/RAstogi6?tab=followers)
+[![Stars](https://img.shields.io/github/stars/RAstogi6?style=for-the-badge&color=7B2CBF&labelColor=1D1E2C&logo=github)](https://github.com/RAstogi6)
 
 </div>
 
@@ -91,7 +92,7 @@ I am a **Computer Science Engineering Student & AI Systems Architect** with exte
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Python, FastAPI, Ray, Redis, Pinecone, React | 100k+ Active Agents | <45ms P99 Latency | OAuth2, mTLS, RBAC | 45% Efficiency Boost | [View Repository](https://github.com/puneetrastogi) |
+| Python, FastAPI, Ray, Redis, Pinecone, React | 100k+ Active Agents | <45ms P99 Latency | OAuth2, mTLS, RBAC | 45% Efficiency Boost | [View Repository](https://github.com/RAstogi6) |
 
 Architected a fault-tolerant multi-agent platform capable of decomposing complex enterprise workflows into asynchronous executable graphs. Engineered custom state persistence leveraging Redis and Qdrant to ensure seamless task recovery and zero-loss state transitions during high-load processing spikes.
 
@@ -108,7 +109,7 @@ Architected a fault-tolerant multi-agent platform capable of decomposing complex
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Go, Apache Kafka, ClickHouse, Rust, Grafana | 5B+ Events / Day | Sub-10ms Ingestion | E2E Encryption | 99.999% SLA Uptime | [View Repository](https://github.com/puneetrastogi) |
+| Go, Apache Kafka, ClickHouse, Rust, Grafana | 5B+ Events / Day | Sub-10ms Ingestion | E2E Encryption | 99.999% SLA Uptime | [View Repository](https://github.com/RAstogi6) |
 
 Built an enterprise event-streaming cluster managing concurrent data streams across multi-region Kubernetes deployments. Reduced memory footprint by 40% through custom Rust-based data parsing modules integrated into high-speed Kafka consumer groups.
 
@@ -125,7 +126,7 @@ Built an enterprise event-streaming cluster managing concurrent data streams acr
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| TypeScript, Next.js, Kubernetes, Terraform, Istio | 500+ Microservices | Zero Overhead | Zero-Trust Architecture | 60% Infra Cost Reduction | [View Repository](https://github.com/puneetrastogi) |
+| TypeScript, Next.js, Kubernetes, Terraform, Istio | 500+ Microservices | Zero Overhead | Zero-Trust Architecture | 60% Infra Cost Reduction | [View Repository](https://github.com/RAstogi6) |
 
 Designed a unified developer experience portal and control plane for managing zero-trust microservice environments. Built real-time network topology visualizers using Next.js and WebGL, allowing infrastructure teams to pinpoint latency bottlenecks instantaneously.
 
@@ -201,12 +202,12 @@ Designed a unified developer experience portal and control plane for managing ze
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=puneetrastogi&show_icons=true&theme=synthwave&hide_border=true&title_color=7B2CBF&icon_color=9D4EDD&bg_color=0D1117&text_color=E0E0E0" height="175"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=puneetrastogi&theme=synthwave&hide_border=true&background=0D1117&ring=7B2CBF&fire=9D4EDD&currStreakLabel=7B2CBF" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RAstogi6&show_icons=true&theme=synthwave&hide_border=true&title_color=7B2CBF&icon_color=9D4EDD&bg_color=0D1117&text_color=E0E0E0" height="175"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RAstogi6&theme=synthwave&hide_border=true&background=0D1117&ring=7B2CBF&fire=9D4EDD&currStreakLabel=7B2CBF" height="175"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puneetrastogi&layout=compact&theme=synthwave&hide_border=true&title_color=7B2CBF&icon_color=9D4EDD&bg_color=0D1117&text_color=E0E0E0" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAstogi6&layout=compact&theme=synthwave&hide_border=true&title_color=7B2CBF&icon_color=9D4EDD&bg_color=0D1117&text_color=E0E0E0" height="165"/>
 
 </div>
 
@@ -216,7 +217,7 @@ Designed a unified developer experience portal and control plane for managing ze
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=puneetrastogi&theme=synthwave&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=RAstogi6&theme=synthwave&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true" width="100%"/>
 
 </div>
 
@@ -226,7 +227,7 @@ Designed a unified developer experience portal and control plane for managing ze
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=puneetrastogi&theme=react-dark&color=7b2cbf&bg_color=0d1117&line=9d4edd&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RAstogi6&theme=react-dark&color=7b2cbf&bg_color=0d1117&line=9d4edd&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -246,9 +247,9 @@ Designed a unified developer experience portal and control plane for managing ze
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-puneet.rastogi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:puneet.rastogi@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-puneetrastogi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/puneetrastogi)
-[![GitHub](https://img.shields.io/badge/GitHub-puneetrastogi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/puneetrastogi)
+[![Gmail](https://img.shields.io/badge/Gmail-rastogi.puneet470%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rastogi.puneet470@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-puneet--rastogi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/puneet-rastogi-70a358372/)
+[![GitHub](https://img.shields.io/badge/GitHub-RAstogi6-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RAstogi6)
 [![Portfolio](https://img.shields.io/badge/Portfolio-puneetrastogi.dev-7B2CBF?style=for-the-badge&logo=react&logoColor=white)](https://puneetrastogi.dev)
 
 </div>
