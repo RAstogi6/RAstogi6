@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=200&section=header&text=PUNEET%20RASTOGI&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=750&lines=Senior+Software+Engineer;AI%2FML+Distributed+Systems+Architect;Full+Stack+Platform+Engineer;Product+Engineering+Leader" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;AI%2FML+Distributed+Systems+Architect;Full+Stack+Platform+Engineer;Product+Engineering+Mindset" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -30,13 +30,13 @@
 
 ## 🧠 About Me
 
-I am a **Senior Software Engineer & AI Systems Architect** with extensive experience in architecting ultra-low latency distributed backend microservices, large-scale AI/ML pipelines, and resilient cloud-native platforms. My technical methodology bridges deep computational fundamentals with modern product engineering practices to build robust, high-throughput software systems.
+I am a **Computer Science Engineering Student & AI Systems Architect** with extensive experience in architecting ultra-low latency distributed backend microservices, large-scale AI/ML pipelines, and resilient cloud-native platforms. My technical methodology bridges deep computational fundamentals with modern product engineering practices to build robust, high-throughput software systems.
 
 - 🛠 **Software Engineering Excellence:** Deep expertise in language runtimes, concurrent backend systems, microservice decomposition, and enterprise system design.
 - 🤖 **AI / Machine Learning Architecture:** End-to-end design of Retrieval-Augmented Generation (RAG) platforms, LLM fine-tuning pipelines, vector indexing, and high-concurrency MLOps inference engines.
 - 🌐 **Full Stack Development:** Crafting high-performance, responsive single-page applications and responsive design systems linked seamlessly to resilient backend services.
 - 💡 **Product Engineering Mindset:** Focused on developer velocity, measurable business outcomes, security compliance, sub-second latency targets, and zero-downtime scalability.
-- 💼 **Open To:** Principal Technical Leadership Roles, AI Architect Positions, High-Impact Distributed Systems Engineering, and Enterprise Consulting.
+- 💼 **Open To:** Software Engineering Internships, Technical Leadership Roles, AI Architect Positions, and Open Source Collaborations.
 
 ---
 
@@ -135,14 +135,14 @@ Designed a unified developer experience portal and control plane for managing ze
 
 ## 💼 Experience
 
-### **Senior Software Engineer & AI Architect** | Enterprise Tech Solutions
+### **Software Engineering Intern & AI Lead** | Enterprise Tech Solutions
 `Jan 2023 — Present`
 - Spearheaded the design and deployment of an enterprise LLM orchestration framework, handling over 25 Million daily automated inference calls.
 - Architected sub-50ms vector query infrastructure utilizing Qdrant and Redis, scaling seamlessly to support multi-tenant enterprise data isolated by zero-trust policies.
 - Directed a cross-functional engineering team of 14 across backend, cloud infrastructure, and MLOps to deliver production features ahead of schedule.
 - `Skills`: `Python` `Go` `Kubernetes` `AWS` `PyTorch` `FastAPI` `Vector DBs`
 
-### **Staff Systems Engineer** | Global Cloud Innovations
+### **Student Software Engineering Fellow** | Global Cloud Innovations
 `Jun 2021 — Dec 2022`
 - Engineered high-throughput microservices processing over 15,000 requests per second with strict sub-15ms processing latency limits.
 - Spearheaded database partitioning and caching overhaul, improving relational database query throughput by 350%.
@@ -236,21 +236,9 @@ Designed a unified developer experience portal and control plane for managing ze
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/puneetrastogi/puneetrastogi/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
+<img src="https://cdn.jsdelivr.net/gh/platane/snk@output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
 
 </div>
-
----
-
-## 🎯 Current Focus
-
-```yaml
-current_focus:
-  learning: "Distributed Consensus Protocols (Raft, Paxos) & Low-Level CUDA Optimization"
-  building: "Autonomous Multi-Agent Platform with Sub-Millisecond Local Model Quantization"
-  exploring: "Quantum Machine Learning Algorithms & Rust WebAssembly Core Engines"
-  open_to: "Technical Advisory Roles, Principal System Architecture, & Open Source Engineering"
-```
 
 ---
 
